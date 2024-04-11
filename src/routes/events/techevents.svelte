@@ -10,7 +10,7 @@
           'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         ],
         price: 'Rs. 100 /Head',
-        imageURL: 'https://via.placeholder.com/150', // Sample image URL
+        imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712826004/corporate-businessman-giving-presentation-large-audience_es3nmm.jpg', // Sample image URL
       },
       {
         id: 2,
@@ -40,7 +40,7 @@
           'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
         ],
         price: 'Rs. 50 /Head',
-        imageURL: 'https://via.placeholder.com/150', // Sample image URL
+        imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712825994/website-design-content-layout-graphic_kxk6fk.jpg', // Sample image URL
       }
       // Add more cards as needed
     ];
