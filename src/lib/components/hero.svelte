@@ -79,46 +79,49 @@
     </div>
   </section>
   
-  <style>
-    #hero {
-      transform: skewY(-5deg);
+ <style>
+  #hero {
+    transform: skewY(-5deg);
+    overflow-x: hidden; /* Add this line to prevent horizontal overflow */
+  }
+
+  .bg-text-container {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    z-index: -999;
+  }
+
+  span {
+    font-size: 280px;
+    color: transparent;
+    -webkit-text-stroke: 4px #c44eac;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 0.75;
+    min-width: auto;
+    font-weight: 200;
+    opacity: 0.1;
+  }
+
+  @keyframes text-scrolling {
+    0% {
+      transform: translate3d(-100%, 0, 0);
     }
-  
-    .bg-text-container {
-      transform: translateX(-50%);
-      left: 50%;
-      position: absolute;
-      z-index: -999;
+    100% {
+      transform: translate3d(0%, 0, 0);
     }
-  
-    span {
-      font-size: 280px;
-      color: transparent;
-      -webkit-text-stroke: 4px #c44eac;
-      text-transform: uppercase;
-      display: inline-block;
-      line-height: 0.75;
-      min-width: auto;
-      font-weight: 200;
-      opacity: 0.1;
-    }
-  
-    @keyframes text-scrolling {
-      0% {
-        transform: translate3d(-100%, 0, 0);
-      }
-      100% {
-        transform: translate3d(0%, 0, 0);
-      }
-    }
-    .animate-text {
-      animation: text-scrolling 20s linear infinite;
-      will-change: transform;
-      display: block;
-      position: relative;
-      white-space: nowrap;
-    }
-    .animate-text.left {
-      animation-direction: reverse;
-    }
-  </style>
+  }
+
+  .animate-text {
+    animation: text-scrolling 20s linear infinite;
+    will-change: transform;
+    display: block;
+    position: relative;
+    white-space: nowrap;
+  }
+
+  .animate-text.left {
+    animation-direction: reverse;
+  }
+</style>
