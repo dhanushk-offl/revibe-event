@@ -79,20 +79,36 @@ export const gallery: Gallery[] = [
         des: "Gallery One"
     },
     {
-        pic: "https://res.cloudinary.com/dtqdoinxc/image/upload/v1704571115/Revibe/About_Revibe_r0jir0.webp",
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712759931/IMG_4102_vyczbd.jpg",
         des: "Gallery One"
     },
     {
-        pic: "https://res.cloudinary.com/dtqdoinxc/image/upload/v1704571115/Revibe/About_Revibe_r0jir0.webp",
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712759912/PXL_20220528_115539516.MP_ta4e2p.jpg",
         des: "Gallery One"
     },
     {
-        pic: "https://res.cloudinary.com/dtqdoinxc/image/upload/v1704571115/Revibe/About_Revibe_r0jir0.webp",
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823462/IMG20230318170724_hecq6t.jpg",
         des: "Gallery One"
     }, {
-        pic: "https://res.cloudinary.com/dtqdoinxc/image/upload/v1704571115/Revibe/About_Revibe_r0jir0.webp",
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823452/IMG_4231_kh4zzj.jpg",
         des: "Gallery One"
     },
+    {
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823659/IMG_4001_kogagr.jpg",
+        des: "Gallery One"
+    },
+    {
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823659/IMG_3995_1_n1qvai.jpg",
+        des: "Gallery One"
+    },
+    {
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823453/DSC_1079.NEF_kdrrmu.jpg",
+        des: "Gallery One"
+    },
+    {
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823453/DSC_1079.NEF_kdrrmu.jpg",
+        des: "Gallery One"
+    },   
 ];
 
 export const model: modelagenda[] = [
