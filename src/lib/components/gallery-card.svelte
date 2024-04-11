@@ -1,36 +1,28 @@
-<script lang="ts">
+<script>
+    import { redirectToRegister } from './utils';
+    import GalleryCard from './gallery-card.svelte';
     import { gallery } from '$lib/data/data';
-    import Marquee from 'svelte-fast-marquee';
-    export let pic_res =
-        'mx-5 ms:w-36 ms:h-16 mm:w-48 mm:h-24 ml:w-56 ml:h-32 md:w-60 md:h-40 lg:w-72 lg:h-44 ds:w-80 dl:w-96 dl:h-52';
 </script>
 
-<div>
-    <div>
-        <div class="relative z-50 w-full ">
-            <img class="w-full ds:h-[80px] " src="https://res.cloudinary.com/dtqdoinxc/image/upload/v1704810015/Revibe/Ellipse_2_sypezw.webp" alt="gallery-banner" />
-        </div>
-        <Marquee speed={70} class="flex flex-col z-10 mt-[-1rem] ms:mt-[-1rem]  md:mt-[-2rem] lg:mt-[-2.2rem] relative">
-            {#each gallery as gallery}
-                <img class={pic_res} src={gallery.pic} alt={gallery.des} />
-            {/each}
-        </Marquee>
-        <div class="relative z-50 w-full mt-[-1rem] ms:mt-[-1rem] md:mt-[-2rem] lg:mt-[-2.2rem]">
-            <img class="w-full ds:h-[20px]" src="https://res.cloudinary.com/dtqdoinxc/image/upload/v1704810015/Revibe/Ellipse_2_sypezw.webp" alt="gallery-banner" />
-        </div>
-    </div>
-
-    <div>
-        <div class="relative z-50 w-full ">
-            <img class="w-full ds:h-[80px] " src="https://res.cloudinary.com/dtqdoinxc/image/upload/v1704810015/Revibe/Ellipse_2_sypezw.webp" alt="gallery-banner" />
-        </div>
-        <Marquee speed={70} direction="right" class="flex flex-col z-10 mt-[-1rem] ms:mt-[-1rem]  md:mt-[-2rem] lg:mt-[-2.2rem] relative">
-            {#each gallery as gallery}
-                <img class={pic_res} src={gallery.pic} alt={gallery.des} />
-            {/each}
-        </Marquee>
-        <div class="relative z-50 w-full mt-[-1rem] ms:mt-[-1rem] md:mt-[-2rem] lg:mt-[-2.2rem]">
-            <img class="w-full ds:h-[80px]" src="https://res.cloudinary.com/dtqdoinxc/image/upload/v1704810015/Revibe/Ellipse_2_sypezw.webp" alt="gallery-banner" />
+<section id="gallery">
+    <div class="overflow-hidden">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 justify-items-center py-12 bg-black">
+            <div class="mb-10">
+                <h1 class="text-[min(12vw,80px)] leading-[1] tracking-tighter text-center max-w-xl font-bold text-white bg-clip-text bg-gray">
+                    Memories
+                </h1>
+            </div>
+            <div>
+                <div class="flex flex-col items-center lg:flex-row lg:justify-between">
+                    <span class="text-sm lg:text-lg xl:text-3xl text-white font-display font-regular mb-4 lg:mb-0">Experience this gallery in real</span>
+                    <button onclick={redirectToRegister} class="bg-white text-[10px] lg:text-sm xl:text-2xl rounded-full py-1 px-3">Get your tickets now</button>
+                </div>
+            </div>
+            <div>
+                {#each gallery as image}
+                    <GalleryCard {image} />
+                {/each}
+            </div>
         </div>
     </div>
-</div>
+</section>
