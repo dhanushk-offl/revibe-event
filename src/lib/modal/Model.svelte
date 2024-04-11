@@ -35,18 +35,6 @@
               aria-label="Close"
             />
           </div>
-          <div class="modal-body relative p-4">
-            <p>
-              Thank you for showing your interest in DevFest2023, Chennai. We are
-              very happy, eager and equally excited to see you all during the event.<br />
-              We are also equally sad if you did not receive a confirmed invite
-              from us. This could only mean that we've reached our maximum occupancy
-              for the venue and as much as we want to have room for all of you, it
-              just couldn't happen. <br />
-              Hopefully a success in this event will help us grow our capacity to take in as many of you as possible for future devfest events!<br /><br />
-              Going to miss the amazing tech talks from our speakers? Worry not, we've got you covered with our Youtube Livestream for <a class="font-medium text-blue-500" href="https://www.youtube.com/watch?v=coFbkjbuMdA">Track 1</a> and <a class="font-medium text-blue-500" href="https://www.youtube.com/watch?v=B0SC-IzK0PQ">Track 2</a>
-            </p>
-          </div>
           <div
             class="modal-footer flex flex-shrink-0 flex-wrap items-center justify-end rounded-b-md border-t border-gray-200 p-4"
           >
