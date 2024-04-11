@@ -1,3 +1,7 @@
+**Creator**: Dhanush K
+[GitHub](https://github.com/dhanushk-offl)
+[Twitter](https://twitter.com/dhanushk_offl)
+[LinkedIn](https://www.linkedin.com/in/dhanushkandhan/)
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
