@@ -94,10 +94,6 @@ export const gallery: Gallery[] = [
     {
         pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823453/DSC_1079.NEF_kdrrmu.jpg",
         des: "Gallery One"
-    },
-    {
-        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712760432/IMG_4288_emendp.jpg",
-        des: "Gallery One"
     }
 ];
 
