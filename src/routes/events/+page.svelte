@@ -21,7 +21,7 @@
         Non - Technical Events
     </span>
     <span class="flex-grow block border-t border-black"></span>
-</h2>
+</h2><br><br>
 <NonTech />
 <h2 class="flex flex-row flex-nowrap items-center mt-24">
     <span class="flex-grow block border-t border-black"></span>
@@ -29,7 +29,7 @@
         Games
     </span>
     <span class="flex-grow block border-t border-black"></span>
-</h2>
+</h2><br><br>
 <Games />
 
 
