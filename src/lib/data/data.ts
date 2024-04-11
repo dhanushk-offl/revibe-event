@@ -75,7 +75,7 @@ export const agenda: Agenda[] = [
 
 export const gallery: Gallery[] = [
     {
-        pic: "https://res.cloudinary.com/dtqdoinxc/image/upload/v1704571115/Revibe/About_Revibe_r0jir0.webp",
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712759932/PXL_20220527_114240951.MP_1_cjlsjm.jpg",
         des: "Gallery One"
     },
     {
@@ -106,9 +106,13 @@ export const gallery: Gallery[] = [
         des: "Gallery One"
     },
     {
-        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823453/DSC_1079.NEF_kdrrmu.jpg",
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712760432/IMG_4288_emendp.jpg",
         des: "Gallery One"
-    },   
+    },
+    {
+        pic: "https://res.cloudinary.com/dwir71gi2/image/upload/v1712823460/IMG_20230318_122645_xysehj.jpg",
+        des: "Gallery One"
+    },
 ];
 
 export const model: modelagenda[] = [
