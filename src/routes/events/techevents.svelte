@@ -40,7 +40,7 @@
           'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
         ],
         price: 'Rs. 50 /Head',
-        imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712825994/website-design-content-layout-graphic_kxk6fk.jpg', // Sample image URL
+        imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712825994/website-design-content-layout-graphic_kxk6fk.jpg' // Sample image URL
       }
       // Add more cards as needed
     ];
