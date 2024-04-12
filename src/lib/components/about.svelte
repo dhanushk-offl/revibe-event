@@ -9,7 +9,7 @@
 		{
 			img: 'https://res.cloudinary.com/dtqdoinxc/image/upload/v1704571127/Revibe/about_svg_tndrzu.webp',
 			alt: 'About SGC',
-			head: 'SGC 2024',
+			head: 'SGC',
 			para: "SGC, established in 2010 by Tanveer Ahmed and Mohammed Imran, is dedicated to empowering students professionally. Grounded in the mantra 'of, for, and by the students,' SGC organizes diverse events, unveiling hidden talents. Through these initiatives, it nurtures skills, ensuring remarkable career outcomes and aspiring to elevate students' professionalism to new heights."
 		}
 	];
