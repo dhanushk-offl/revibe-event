@@ -5,71 +5,100 @@ export const agenda: Agenda[] = [
         title: "Inauguration",
         time: "09:30 AM - 10:00 AM",
         venue: "@Auditorium",
-        category: "other"
+        category: "other",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713106143/others_bg_pxrnqt.png"
     },
     {
         title: "Paper Presentation",
         time: "10:30 AM - 03:30 PM",
         venue: "@Technology Tower",
-        category: "tech"
+        category: "tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712932203/ppt2_v4ojw8.jpg"
     },
     {
         title: "Coding & Debugging",
         time: "02:00 PM - 03:00 PM",
         venue: "@MBA Seminar Hall",
-        category: "tech"
+        category: "tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712929338/side-shot-code-editor-using-react-js_1_kx81jc.jpg"
     }, {
         title: "Web Designing",
         time: "11:00 AM - 12:00 PM",
         venue: "@Auditorium",
-        category: "tech"
+        category: "tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712926375/person-front-computer-working-html_1_sbdwik.jpg"
     }, {
         title: "Tech Quiz",
         time: "10:30 AM - 11:30 AM",
         venue: "@Mechanical Seminar Hall",
-        category: "tech"
+        category: "tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712930233/85313464_SL-050620-30640-05_1_tmzjor.jpg"
     }, {
         title: "Connections",
         time: "11:00 AM - 12:30 PM",
         venue: "@MBA Seminar Hall",
-        category: "non-tech"
+        category: "non-tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713110932/connt_zebkic.png"
     }, {
         title: "Cooking without Fire",
         time: "02:00 PM - 03:00 PM",
         venue: "@Auditorium",
-        category: "non-tech"
-    }, {
+        category: "non-tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713107714/cwf2_zvyjjf.png"
+    },
+    {
+        title: "Photography",
+        time: "02:00 PM - 03:00 PM",
+        venue: "@Auditorium",
+        category: "non-tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712939082/photgraphy_ilvlzo.jpg"
+    }, 
+    {
+        title: "Meme Creation",
+        time: "02:00 PM - 03:00 PM",
+        venue: "@Auditorium",
+        category: "non-tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712938215/meme_lvkoss.jpg"
+    },
+    {
         title: "Chess",
         time: "02:30 PM - 03:30 PM",
         venue: "@Auditorium",
-        category: "games"
+        category: "games",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712937281/chess_qrzn4x.jpg"
     }, {
         title: "BGMI & Free Fire",
         time: "02:00 PM - 03:00 PM",
         venue: "@MBA Seminar Hall",
-        category: "games"
+        category: "games",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712760425/bgmi-vs-freefire-max_dhoj6q.webp"
     }, {
         title: "Art(Painting & Pencil)",
         time: "02:00 PM - 03:30 PM",
         venue: "@Mechanical Seminar Hall",
-        category: "non-tech"
-    }, {
-        title: "Let's Vibe & Open Mic",
-        time: "12:30 PM - 02:00 PM",
+        category: "non-tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712938470/art_zoiggj.jpg"
+    },
+    {
+        title: "Act Like a GOAT",
+        time: "02:00 PM - 03:00 PM",
         venue: "@Auditorium",
-        category: "other"
-    }, 
+        category: "non-tech",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712939622/goat_enso5i.jpg"
+    },
     {
         title: "Gully Cricket",
         time: "04:00 PM - 04:30 PM",
         venue: "@Baseket Ball Arena - CAHCET",
-        category: "games"
+        category: "games",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712936329/gully_frdonm.jpg"
     },
     {
         title: "Vote of thanks",
         time: "04:00 PM - 04:30 PM",
         venue: "@Auditorium",
-        category: "other"
+        category: "other",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713106143/others_bg_pxrnqt.png"
     },
 ];
 
