@@ -3,6 +3,7 @@ export interface Agenda {
     time:string;
     venue:string;
     category:string;
+    image:string;
 }
 
 export interface Gallery{
