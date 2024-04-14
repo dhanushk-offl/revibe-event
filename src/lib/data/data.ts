@@ -254,7 +254,7 @@ export const sponsors: Sponsors[] = [
         website:""
     },
     {
-        logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712729265/IMG-20240401-WA0031_jelzij.jpg",
+        logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713104033/IMG-20240401-WA0031-removebg-preview_iltth5.png",
         company:"Anbu Electronics",
         website:""
     }
