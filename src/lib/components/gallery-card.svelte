@@ -2,7 +2,7 @@
     import { gallery } from '$lib/data/data';
     import Marquee from 'svelte-fast-marquee';
     export let pic_res =
-        'mx-5 ms:w-48 ms:h-24 mm:w-60 mm:h-32 ml:w-72 ml:h-40 md:w-80 md:h-48 lg:w-96 lg:h-56 ds:w-96 ds:h-56 dl:w-120 dl:h-64';
+        'mx-5 ms:w-36 ms:h-16 mm:w-48 mm:h-24 ml:w-56 ml:h-32 md:w-60 md:h-40 lg:w-72 lg:h-44 ds:w-80 dl:w-96 dl:h-52';
 </script>
 
 <div class="relative z-50 mt-20"> <!-- Add relative positioning and z-index to the gallery container -->
