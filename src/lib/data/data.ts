@@ -234,7 +234,7 @@ export const model: modelagenda[] = [
 ];
 export const sponsors: Sponsors[] = [
     {
-        logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713103598/Nan_sponser_zr69kt.png",
+        logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713103840/nandhini_beauty_parlour_xdxetc.png",
         company:"Nandhini's Beauty Studio & Academy",
         website:""
     },    
@@ -246,6 +246,11 @@ export const sponsors: Sponsors[] = [
     {
         logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712760000/cadd_sponser_tetfxb.jpg",
         company:"G-Academy",
+        website:""
+    },
+    {
+        logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713103849/crispy_delight_bkigi8.png",
+        company:"Crispy Delight",
         website:""
     },
     {
