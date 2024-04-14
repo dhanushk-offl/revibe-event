@@ -234,6 +234,11 @@ export const model: modelagenda[] = [
 ];
 export const sponsors: Sponsors[] = [
     {
+        logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713103598/Nan_sponser_zr69kt.png",
+        company:"Nandhini's Beauty Studio & Academy",
+        website:""
+    },    
+    {
         logo:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712729315/Meg_s_bakes_logo_liy6rp.jpg",
         company:"Meg's Bakes - Arcot",
         website:""
