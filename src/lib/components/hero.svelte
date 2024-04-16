@@ -6,7 +6,7 @@
     import { openModal } from 'svelte-modals';
   
     function handleClick() {
-      window.open('/register')
+      window.open('https://revibe-sgc.rf.gd/register')
     }
   </script>
   
@@ -43,7 +43,7 @@
     >
       <Button
         id="button-hero-get-tickets"
-        title="Book tickets"
+        title="Register Now"
         onClick={() => handleClick()}
       >
         <Icon width="20" height="20" name="ticket" />
