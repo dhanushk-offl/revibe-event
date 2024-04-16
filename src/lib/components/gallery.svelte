@@ -23,7 +23,7 @@
             <div>
                 <div class=" relative z-100 flex flex-row align-middle gap-4">
                     <span class="text-sm lg:text-lg dl:text-3xl text-white font-display font-regular">Experience this gallery in real</span>
-                   <button class="align-middle text-center rounded-full bg-white py-1 px-3 dl:text-2xl lg:text-sm text-[10px]">Get your tickets now</button>
+                   <a href="https://revibe-sgc.rf.gd/register" target="_blank"><button class="align-middle text-center rounded-full bg-white py-1 px-3 dl:text-2xl lg:text-sm text-[10px]">Get your tickets now</button></a>
                 </div>
             </div>
             <div>
