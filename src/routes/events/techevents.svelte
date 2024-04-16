@@ -58,9 +58,10 @@
             {/each}
           </ol>
           <p class="text-lg font-semibold mb-2">{card.price}</p>
+          <a href="https://revibe-sgc.rf.gd/register" target="_blank">
           <button class="bg-black text-white px-4 py-2 rounded-md hover:bg-grey">
-            Buy Now
-          </button>
+            Register Now
+          </button></a>
         </div>
       </div>
     {/each}
