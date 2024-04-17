@@ -5,7 +5,7 @@
         id: 1,
         productName: 'Cook Without Fire',
         productDetails: ["There should be two/three members in a team and TIMING: 11.00am -12.30pm @EEE Seminar Hall", "Participants should be present 10mintues prior at the venue & total preparation time: 1hr.", "All the ingredients, equipment & vessels required for cooking should be brought by the participants themselves, only working table will be provided.", "Electric mixer-jar will be provided by us & Participants should not bring any chopped or grated raw vegetables/fruits.", "They should do it on the spot within the allotted time(no prior preparation allowed)", "Participants should not bring any pre-cooked items(boiled)", "Participants are supposed to display a chart having the names of ingredients for each dish they have prepared.", "Participants can bring non-electric equipment’s like mixer, chopper, juicer, grater etc… & Heating by any method is not permitted.", "The prepared cooking items should be hygienic and Participants should clean their respective work places after the preparation over.", "The Evaluation will be based on the taste of the dish, nutritional level, cleanliness, creativity and presentation (The name of the dish should be unique), The best dish will be Awarded andparticipation certificate will be provided to all participants."],
-        price: 'Rs. 100 /Team',
+        price: 'Rs. 200 /Team (For 3 Participants in a Team Rs. 250)',
         imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1713107707/fatima-akram-xhCOgeoDSs-unsplash-e1632860020420_qnbbxg.jpg', // Sample image URL
         contact:["Priya: 6385356926", "Thaseem", "Kamali", "Jaheen: 8148809436", "Ajay: 6374398086", "Shafifa Naaz"],
         judges:"FACULTIES"
