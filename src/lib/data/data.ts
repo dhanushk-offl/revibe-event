@@ -2,23 +2,30 @@ import type { Agenda, Gallery, Sponsors, modelagenda } from '$lib/type';
 
 export const agenda: Agenda[] = [
     {
-        title: "Inauguration",
-        time: "09:30 AM - 10:00 AM",
+        title: "Registration",
+        time: "08:30 AM - 10:20 AM",
+        venue: "@Auditorium",
+        category: "other",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713352067/REGISTRATION_oak6z2.png"
+    },
+    {
+        title: "Inaugration",
+        time: "09:15 AM - 09:50 AM",
         venue: "@Auditorium",
         category: "other",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713106143/others_bg_pxrnqt.png"
     },
     {
         title: "Paper Presentation",
-        time: "10:30 AM - 03:30 PM",
+        time: "10:30 AM - 03:00 PM",
         venue: "@Technology Tower",
         category: "tech",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712932203/ppt2_v4ojw8.jpg"
     },
     {
         title: "Coding & Debugging",
-        time: "02:00 PM - 03:00 PM",
-        venue: "@MBA Seminar Hall",
+        time: "10:30 AM - 12:30 PM",
+        venue: "@Tech Tower",
         category: "tech",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712929338/side-shot-code-editor-using-react-js_1_kx81jc.jpg"
     }, {
