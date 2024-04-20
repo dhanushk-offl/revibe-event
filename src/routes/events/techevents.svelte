@@ -42,7 +42,7 @@
       price: 'Rs. 50 /Head',
       imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712930991/quiz_1_muhgzs.jpg', // Sample image URL
       contact:["Abubakkar Siddiq N: +919842028191", "Abishek: +919842028191"],
-      judges:"Yamnah Safiya, Abubakkar Siddiq, Abishek & Asjad"
+      judges:" Yumnah Safiya, Abubakkar Siddiq, Abishek and Abdul Gafoor Asjad"
     },
     {
       id: 4,
