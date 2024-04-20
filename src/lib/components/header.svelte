@@ -27,7 +27,7 @@
         active: false
       },
       {
-        name: 'Sponsers',
+        name: 'Sponsors',
         href: '/#sponsors',
         active: false
       },
