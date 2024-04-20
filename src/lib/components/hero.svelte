@@ -33,7 +33,8 @@
         <img src="https://res.cloudinary.com/dwir71gi2/image/upload/v1712737224/Revibelogo_1_fdaxqg.png" width="auto" height="auto">
     </div>
       <p class="max-w-2xl text-start text-gray-700 md:text-center lg:text-center">
-        Come learn, enjoy, network and expose your talents and expertise to our Society.  Let Bang On to Revibe 2024
+         Come learn, enjoy, network, and showcase your talents and
+ expertise to our Society. Let's Bang On to Revibe 2024.
       </p>
     </div>
   
