@@ -62,7 +62,7 @@
     "The topics are listed below, and participants must draw only based on the topic they select.",
     "The winner will be decided based on the theme and adherence to the rules of competitions.",
     "Participants can have a reference picture from their phone to see and draw.",
-    "<b>Topics for pencil sketches:</b> The journey of life from birth to old age, portraits of loved ones or famous figures, architectural details or buildings, and fantasy creatures or characters like anime favorites",
+    "Topics for pencil sketches: The journey of life from birth to old age, portraits of loved ones or famous figures, architectural details or buildings, and fantasy creatures or characters like anime favorites",
     "Topics for Paintings: Painting art inspired by famous painting artists, exploring themes of freedom and social change, capturing the starry night, and illustrating a scene from a chosen song.",
 "Two first prizes will be awarded based on two categories: Paintings, which encompass watercolors, oil pastels, and color pencils & Pencil sketches, restricted to various shades of pencils only."
   ],
