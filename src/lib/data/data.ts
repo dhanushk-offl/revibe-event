@@ -31,7 +31,7 @@ export const agenda: Agenda[] = [
     }, {
         title: "Web Designing",
         time: "11:00 AM - 12:00 PM",
-        venue: "@Auditorium",
+        venue: "@EEE Classroom",
         category: "tech",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712926375/person-front-computer-working-html_1_sbdwik.jpg"
     }, {
