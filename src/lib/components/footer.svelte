@@ -9,7 +9,7 @@
 	  },
 
 	  {
-		href: 'https://www.linkedin.com/in/studentsguidencecell-cahcet',
+		href: 'https://www.linkedin.com/in/studentguidancecell-cahcet',
 		icon: 'fa fa-linkedin',
 		class: 'btn linkedin'
 	  },
