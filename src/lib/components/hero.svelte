@@ -69,7 +69,7 @@
         <i class="fa fa-calendar" />
         <p>April 27 2024</p>
         <i class="fa fa-location-arrow" />
-        <a href='https://maps.app.goo.gl/KnoovD6vyYEHWnDr8'
+        <a href='https://maps.app.goo.gl/XgqdYxc5a4c5UKqZA'
           ><p>C Abdul Hakeem College of Engineering & Technology, Ranipet</p></a>
       </div>
     </div>
