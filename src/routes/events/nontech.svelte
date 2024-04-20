@@ -94,7 +94,7 @@
           <div class="text-gray-600 mb-2">
             <ol>
               {#each card.productDetails as detail, index}
-                <li>{index + 1}. {detail}</li>
+                <li>{index + 1}. {@html detail}</li>
               {/each}
             </ol>
           </div><hr>
