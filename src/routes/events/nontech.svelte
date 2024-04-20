@@ -44,7 +44,7 @@
     "Everyone should upload only one photo.",
     "Everyone should upload the photo to the given mail id and all must mention Name, Department, pursuing year, College Name.",
     "Mention the category below the photo and the Topic chosen.",
-    "Failure to give your response on time or to follow any of the rules will result in rejection with no refund.",
+    " Failure to give your response on time or violation of rule will result in rejection with no refund",
     "Capturing the best picture and submitting it within the given time will be awarded. (Note: All participants will receive a participation certificate.)", "Category_1: Open Photography (You can use any topic here, but you have to mention the reason why you have chosen this topic and add a caption below the post)", "Category 2: Explore themes like Natural photography, Candid moments, College Architecture, Beautiful landscape, Reflection, Nostalgic moments, Emotions, Human Interaction with Nature, and Hidden Gems."],
         price: 'Rs. 50 /Head',
         imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712938855/photgraphy_l9xi8q.jpg', // Sample image URL
