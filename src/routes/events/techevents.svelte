@@ -64,7 +64,7 @@
       price: 'Rs. 50 /Head',
       imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712825994/website-design-content-layout-graphic_kxk6fk.jpg', // Sample image URL
       contact:["Sathakatullah: +91 6385356926", "Abdul Bari: +91 9597225564"],
-      judges:"Sathakatullah, Kamali and Abdul Bari"
+      judges:"Sneha, Sathakatullah, Syed Naveeth, Abdul Bari & Kashif ul Haq"
     }
     // Add more cards as needed
   ];
