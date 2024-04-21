@@ -44,7 +44,7 @@
     {#each cards as card}
       <div class="bg-white rounded-lg shadow-md overflow-hidden">
         <img class="w-full h-48 object-cover" src={card.imageURL} alt={card.productName} />
-        <div class="p-4">
+        <div class="p-4" id="{card.productName}">
           <h3 class="text-lg font-semibold mb-2">{card.productName}</h3>
           <p class="text-lg font-semibold mb-2">{card.price}</p>
           <div class="text-gray-600 mb-2">
