@@ -35,7 +35,7 @@ export const agenda: Agenda[] = [
         category: "tech",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712926375/person-front-computer-working-html_1_sbdwik.jpg"
     }, {
-        title: "Tech Quiz",
+        title: "Technical Quiz",
         time: "10:30 AM - 12:00 PM",
         venue: "@MBA Seminar Hall",
         category: "tech",
