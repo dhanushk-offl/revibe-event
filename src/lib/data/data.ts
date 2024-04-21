@@ -47,7 +47,7 @@ export const agenda: Agenda[] = [
         category: "non-tech",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713110932/connt_zebkic.png"
     }, {
-        title: "Cooking without Fire",
+        title: "Cooking Without Fire",
         time: "11:00 AM - 12:30 PM",
         venue: "@EEE Seminar Hall",
         category: "non-tech",
