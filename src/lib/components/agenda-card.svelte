@@ -5,7 +5,7 @@
   export let agenda: Agenda[];
 
   function redirectToRegister() {
-    window.location.href = '/events';
+    window.location.href = '/events#{item.title}';
   }
 
   // Define a function to determine the background color based on category
