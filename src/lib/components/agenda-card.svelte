@@ -4,9 +4,6 @@
 
   export let agenda: Agenda[];
 
-  function redirectToRegister() {
-    window.location.href = '/events#{item.title}';
-  }
 
   // Define a function to determine the background color based on category
   function getCategoryColor(category: string) {
@@ -36,7 +33,7 @@
         <div class="venue py-1 font-display font-medium">{item.venue}</div>
         <div class="absolute bottom-0 mb-8"> <!-- Adjust margin-bottom here -->
           {#if showTicketsButton(item.category)}
-            <button class="action-button bg-white text-black px-4 py-2 rounded-md" on:click={redirectToRegister}>About the Event</button>
+            <a href="events/#{item.title}"><button class="action-button bg-white text-black px-4 py-2 rounded-md">About the Event</button></a>
           {/if}
         </div>
       </div>
