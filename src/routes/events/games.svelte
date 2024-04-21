@@ -21,7 +21,7 @@
         judges:"Ajay, Ayaaz"
       },
       {
-        pid: 'Free Fire',
+        pid: 'BGMI & Free Fire',
         id: 3,
         productName: 'Free Fire',
         productDetails: ["CHARACTER SKILLS ,GUN PROPERTY AND LOADOUT WILL BE DIASABLED FOR BOTH THE ROUNDS!!!", "Duo's and Trio's are allowed to participate as a team.", "Bring your own things like earphones & gaming sleeves & wifi or hotspot won't be provided.", "Emoting against opponents and to your own teamates is prohibited.", "Participants shouldn't use 'Hacks' or 'config files',if found using any the whole team will be disqualified.", "PC's & Tabs aren't allowed to play and players participating should play the game in the specified area allotted,playing from home or from other places will be subjected to disqualification.", "Rules for Round 1 (Full Map/BR):", "Reviving through vending machines or revival points is not allowed. Teaming up with opponents is strictly prohibited; any such actions will result in disqualification for both teams. Matches will be conducted in 'BERMUDA' only. 'Camping' or engaging in 'Heal battles' is prohibited; winning a match by these means will not be considered. The top 4 teams will be selected for Round 2 based on entries.", "Rules for Round 2 (Clash Squad):", "It's up to the 'TRIO'S AND DUO'S' if they've made it this far. Blocking opponents from reaching the safe zone intentionally will result in disqualification. Unlimited loot option will be enabled for this round. Climbing rooftops is prohibited. Breaking opponents' round walls is prohibited. Capturing the center zone using Gloo-walls is prohibited. Usage of grenades is strictly prohibited. A maximum amount of CS coin will be provided at the start of every round. Airdrop and cyber airdrop will be disabled."],
@@ -31,7 +31,6 @@
         judges:" Delhi Ganesh, Harish, Abishek, Mohammed Aasif and Mohammed Nafeed"
       },
       {
-        pid: 'BGMI',
         id: 4,
         productName: 'BGMI',
         productDetails: ["Squad: Minimum 1 and Maximum 4 participants are allowed to form a team. The event will take place from 01:30 pm to 03:00 pm in the Auditorium.", "Participants can participate solo, duo, trio, or in a squad.", "Participants are not allowed to team up with enemy teams. Each player or team must play independently.", "Participants must not use any hacks. If found, the team will be disqualified.", "Matches will be conducted on the Erangel Map (Battle Royale).", " Respect towards teammates and opponents is mandatory, and the use of disrespectful or abusive language is not allowed.", "Participants will earn 5 points for each kill achieved. In squad matches, a chicken dinner (winning the match) will award 15 points to the victorious squad, while the runner-up squad will receive 10 points."],
