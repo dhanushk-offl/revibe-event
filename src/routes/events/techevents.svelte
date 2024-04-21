@@ -1,6 +1,7 @@
 <script>
   const cards = [
     {
+      pid: 'Paper Presentation';
       id: 1,
       productName: 'Paper Presentation',
       productDetails: [
@@ -20,6 +21,7 @@
       judges:"**Updated soon"
     },
     {
+      pid: 'Coding & Debugging',
       id: 2,
       productName: 'Coding & Debugging',
       productDetails: ["The registration fee for participation in the event is structured as follows: 50/- for one person and 100/- for two persons(only two participants allowed as team).",  "The event is scheduled from 10:30 am to 12:30 pm at the Technology Tower.", "The competition comprises two rounds.", "In Round 1, participants will receive a link to a Google Forms document containing debugging questions, which they must attempt to solve within the allocated time.", "Round 2 involves participants being given a set of questions for which they must design code. Their code must produce the sample output provided and handle other complex inputs specified by the coordinators.", "Participants must complete both rounds within the given time frame, and it is advisable to bring a pen for rough work during the competition."],
@@ -29,6 +31,7 @@
       judges:"Varun, Dhanush & Mudassir"
     },
     {
+      pid: 'Technical Quiz';
       id: 3,
       productName: 'Technical Quiz',
       productDetails: ["Only individual participants are allowed and participants will be given 15 mins to complete each round.",
@@ -45,6 +48,7 @@
       judges:" Yumnah Safiya, Abubakkar Siddiq, Abishek and Abdul Gafoor Asjad"
     },
     {
+      pid: 'Web Designing',
       id: 4,
       productName: 'Web Designing',
       productDetails: [
@@ -74,7 +78,7 @@
   {#each cards as card}
     <div class="bg-white rounded-lg shadow-md overflow-hidden">
       <img class="w-full h-48 object-cover" src={card.imageURL} alt={card.productName} />
-      <div class="p-4" id="{card.productName}">
+      <div class="p-4" id="{card.pid}">
         <h3 class="text-lg font-semibold mb-2">{card.productName}</h3>
         <p class="text-lg font-semibold mb-2">{card.price}</p>
         <div class="text-gray-600 mb-2">
