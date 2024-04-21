@@ -10,7 +10,6 @@
     return category === 'tech' ? 'bg-tech' : (category === 'non-tech' ? 'bg-nontech' : 'bg-other');
   }
 
-  // Define a function to determine if the "Get Your Tickets" button should be visible
   function showTicketsButton(category: string) {
     return category === 'tech' || category === 'non-tech' || category === 'games';
   }
