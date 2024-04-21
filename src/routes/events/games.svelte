@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     const cards = [
       {
         pid: 'Gully Cricket',
