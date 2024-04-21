@@ -74,12 +74,20 @@ export const agenda: Agenda[] = [
         category: "games",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712937281/chess_qrzn4x.jpg"
     }, {
-        title: "BGMI & Free Fire",
+        title: "Free Fire",
+        time: "01:30 PM - 03:00 PM",
+        venue: "@Auditorium",
+        category: "games",
+        image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713345144/ff_wtkpnr.jpg"
+    },
+    {
+        title: "BGMI",
         time: "01:30 PM - 03:00 PM",
         venue: "@Auditorium",
         category: "games",
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1712760425/bgmi-vs-freefire-max_dhoj6q.webp"
-    }, {
+    },
+    {
         title: "Art(Painting & Pencil)",
         time: "01:30 PM - 02:30 PM",
         venue: "@Mechanical Block",
