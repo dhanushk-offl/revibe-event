@@ -9,7 +9,7 @@
       price: 'Rs. 200 /Team',
       imageURL: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1712930021/gully_cricket_5_msxtcb.jpg', // Sample image URL
       contact:["Vallarasu : 7397174414", "Jayasurya : 9344147861", "Mohammed Melhan : 9600159063"],
-      judges:"Vallarasu, Jayasurya & Mohammed Melhan"
+      judges:"Vallarasu, Jaya Surya & Mohammed Melhan"
     },
     {
       pid: 'Chess',
