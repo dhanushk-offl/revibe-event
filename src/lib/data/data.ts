@@ -2,7 +2,7 @@ import type { Agenda, Gallery, Sponsors, modelagenda } from '$lib/type';
 
 export const agenda: Agenda[] = [
     {
-        title: "Registrations",
+        title: "Registration",
         time: "08:30 AM - 10:20 AM",
         venue: "@Auditorium",
         category: "other",
