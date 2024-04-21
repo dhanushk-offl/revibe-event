@@ -81,7 +81,7 @@ export const agenda: Agenda[] = [
         image:"https://res.cloudinary.com/dwir71gi2/image/upload/v1713345144/ff_wtkpnr.jpg"
     },
     {
-        title: "BGMI",
+        title: "BGMI Game",
         time: "01:30 PM - 03:00 PM",
         venue: "@Auditorium",
         category: "games",
