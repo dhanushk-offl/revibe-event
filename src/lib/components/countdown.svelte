@@ -69,5 +69,5 @@
 </div>
 
 <div id="endMessage" class="text-center text-3xl font-bold mt-4" style="display: none;">
-  See You in 2025
+  See You in 2025 👋
 </div>
